@@ -36,13 +36,11 @@ What things you need to install the software and how to install them
 ## Authors
 * **We are Running Machine**
 
-* **A Jeong Sung** - *Initial work* - [YourGithubUsername](https://github.com/YourGithubUsername)
+* **A Jeong Sung** - *The * - [YourGithubUsername](https://github.com/YourGithubUsername)
 * **1970094 Hong Saeyeon**  - [GitHub](https://github.com/YourGithubUsername)
 * **2071007 Kim Myeongji** - [GitHub](https://github.com/YourGithubUsername)
 * **Seohyun Kim**  - [GitHub](https://github.com/YourGithubUsername)
-* **Eunseong Park**  - [GitHub](https://github.com/YourGithubUsername)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Eunseong Park** *I'm very appreciate that we work together* - [GitHub](https://github.com/YourGithubUsername)
 
 ## License
 
