@@ -1,10 +1,14 @@
 # Attack on Tor: Website Fingerprinting
 
-One Paragraph of project description goes here
+This project is a machine learning project that achieves predictive accuracy for website access through Internet website access fingerprinting.
+
+Under the guidance of Professor Oh Se-eun, we carried out this project during the fall semester of the 23rd school year.
 
 ## **Closed-world Scenario**
 
-In this scenario, it is assumed that the user only visits websites that are marked as "monitored". The objective of this scenario is to correctly classify 95 monitored websites.
+In this scenario, it is assumed that the user only visits websites that are marked as "monitored". 
+
+The objective of this scenario is to correctly classify 95 monitored websites.
 
 ## **Open-world Scenario**
 
