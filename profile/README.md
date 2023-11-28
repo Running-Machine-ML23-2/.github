@@ -90,8 +90,15 @@ Data was provided for the project, and individual contact and consultation from 
 
 <img src="https://github.com/Running-Machine-ML23-2/.github/assets/96706954/ad9a1759-429e-4d43-84b3-faf977f6e2c9" width="400" height="100"/>
 
+
 * **We are Running Machine**
-  
+
+* **Sung Ajeong** - [Gmail](azng1217@ewhain.net)
+* **Hong Saeyeon**  - [Gmail](sugarsugar@ewhain.net)
+* **Kim Myeongji** - [Gmail](kimmyeongji3@gmail.com)
+* **Kim Seohyun**  - [Gmail](syrup91@ewhain.net)
+* **Park Eunseong** *I'm very appreciate that we work together* - [Gmail](eunseong06070@gmail.com)
+
 Our team name is "Running Machine." This name encapsulates our mission and vision as a group dedicated to the pursuit of advanced machine learning projects. 
 
 The name "Running Machine" has a dual meaning. On one hand, it represents our commitment to machine learning - a rapidly evolving field that is akin to a machine that never stops 'running'. On the other hand, it also signifies our team's continuous drive to learn, grow, and 'run' towards our goal of achieving predictive accuracy for website access through internet website access fingerprinting.
@@ -99,14 +106,6 @@ The name "Running Machine" has a dual meaning. On one hand, it represents our co
 Our vision is to innovate and push the boundaries of what is possible with machine learning, particularly in the realm of internet security. We aim to create systems that can accurately predict website access patterns, thereby enhancing the safety and efficiency of internet use. 
 
 Our mission, in line with our name, is to keep 'running', to keep innovating. We are not just a machine that's running. We are a machine that's evolving, learning, and improving. We are the Running Machine. 
-
-In essence, "Running Machine" is not just a name. It's a representation of our ceaseless pursuit of knowledge and innovation in the field of machine learning.
-
-* **Sung Ajeong** - [Gmail](azng1217@ewhain.net)
-* **Hong Saeyeon**  - [Gmail](sugarsugar@ewhain.net)
-* **Kim Myeongji** - [Gmail](kimmyeongji3@gmail.com)
-* **Kim Seohyun**  - [Gmail](syrup91@ewhain.net)
-* **Park Eunseong** *I'm very appreciate that we work together* - [Gmail](eunseong06070@gmail.com)
 
 ## License
 
