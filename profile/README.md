@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-
-
 # 🏃‍♀️ Attack on Tor: Website Fingerprinting
 
 This project is a machine learning project that achieves predictive accuracy for website access through Internet website access fingerprinting.
@@ -17,6 +14,11 @@ The objective of this scenario is to correctly classify 95 monitored websites.
 
 We developed a model that can predict 95 labels above a certain level by learning the monitored data provided by the professor from Google Colab to a machine learning algorithm.
 
+The below bar graph shows the comparison of our final model and other models ([Click](https://github.com/Running-Machine-ML23-2/problem_1/)):
+
+![image (1)](https://github.com/Running-Machine-ML23-2/.github/assets/96706954/e52c0d8d-f44a-4d63-9d97-0db54f268621)
+
+
 ## 2️⃣  **Open-world Scenario**
 
 In this scenario, it is assumed that the user can visit any website, including "unmonitored" ones that we are not interested in. 
@@ -29,11 +31,21 @@ The goal of this scenario is to determine whether a given web traffic trace corr
 
 To train the model, we assign a label of '-1' to all instances of unmonitored websites.
 
+Here is the Confusion Matrix of our final model([Click](https://github.com/Running-Machine-ML23-2/problem_2/blob/main/Adaboost.ipynb)):
+
+![image](https://github.com/Running-Machine-ML23-2/.github/assets/96706954/f915c953-1de3-44da-aa9e-6c032dabe3b8)
+
+
 ### Problem ➌  **Multi-Class Classification including Unmonitored Data**
 
 This involves classification among web traffic traces tagged with 95 unique labels corresponding to monitored websites, plus additional unmonitored websites.
 
 This project seeks to explore and illustrate these different scenarios and classification types within the context of web traffic analysis.
+
+The below bar graph shows the comparison of our final model and other models ([Click](https://github.com/Running-Machine-ML23-2/problem_3/)):
+
+![image (2)](https://github.com/Running-Machine-ML23-2/.github/assets/96706954/1b40bdea-ad2c-4b32-be92-270b7ffca46a)
+
 
 # 🏃‍♀️ **Feature Extraction**
 
@@ -67,13 +79,14 @@ As experimentally proven features of the above, it is generally known to be effe
 
   
 # 🏃‍♀️ Authors
+![logo_ąššŽ](https://github.com/Running-Machine-ML23-2/.github/assets/96706954/ad9a1759-429e-4d43-84b3-faf977f6e2c9)
 * **We are Running Machine**
 
-* **A Jeong Sung** - *The * - [YourGithubUsername](https://github.com/YourGithubUsername)
-* **1970094 Hong Saeyeon**  - [GitHub](https://github.com/YourGithubUsername)
-* **2071007 Kim Myeongji** - [GitHub](https://github.com/YourGithubUsername)
-* **Seohyun Kim**  - [GitHub](https://github.com/YourGithubUsername)
-* **Eunseong Park** *I'm very appreciate that we work together* - [GitHub](https://github.com/YourGithubUsername)
+* **Sung Ajeong** - *The * - [YourGithubUsername](https://github.com/YourGithubUsername)
+* **Hong Saeyeon**  - [GitHub](https://github.com/YourGithubUsername)
+* **Kim Myeongji** - [GitHub](https://github.com/YourGithubUsername)
+* **Kim Seohyun**  - [GitHub](https://github.com/YourGithubUsername)
+* **Park Eunseong** *I'm very appreciate that we work together* - [Gmail](eunseong06070@gmail.com)
 
 ## License
 
