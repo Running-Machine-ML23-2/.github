@@ -2,9 +2,23 @@
 
 One Paragraph of project description goes here
 
-## Getting Started
+## **Closed-world Scenario**
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+In this scenario, it is assumed that the user only visits websites that are marked as "monitored". The objective of this scenario is to correctly classify 95 monitored websites.
+
+## **Open-world Scenario**
+
+In this scenario, it is assumed that the user can visit any website, including "unmonitored" ones that we are not interested in. In this case, we perform two types of classification: binary classification and multi-class classification.
+
+### **Binary Classification**:
+
+The goal of this scenario is to determine whether a given web traffic trace corresponds to a monitored website. To train the model, we assign a label of '-1' to all instances of unmonitored websites.
+
+### **Multi-Class Classification**:
+
+This involves classification among web traffic traces tagged with 95 unique labels corresponding to monitored websites, plus additional unmonitored websites.
+
+This project seeks to explore and illustrate these different scenarios and classification types within the context of web traffic analysis.
 
 ### Prerequisites
 
