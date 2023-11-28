@@ -1,16 +1,16 @@
-# Attack on Tor: Website Fingerprinting
+# 🏃‍♀️ Attack on Tor: Website Fingerprinting
 
 This project is a machine learning project that achieves predictive accuracy for website access through Internet website access fingerprinting.
 
 Under the guidance of Professor Oh Se-eun, we carried out this project during the fall semester of the 23rd school year.
 
-## **Closed-world Scenario**
+## 1️⃣ **Closed-world Scenario**
 
 In this scenario, it is assumed that the user only visits websites that are marked as "monitored". 
 
 The objective of this scenario is to correctly classify 95 monitored websites.
 
-## **Open-world Scenario**
+## 2️⃣ **Open-world Scenario**
 
 In this scenario, it is assumed that the user can visit any website, including "unmonitored" ones that we are not interested in. In this case, we perform two types of classification: binary classification and multi-class classification.
 
@@ -45,10 +45,4 @@ What things you need to install the software and how to install them
 ## License
 
 This project is licensed under the MIT License 
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
