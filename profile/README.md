@@ -80,8 +80,8 @@ As experimentally proven features of the above, it is generally known to be effe
   
 # 🏃‍♀️ Authors
 
-<img src="[이미지주소.png](https://github.com/Running-Machine-ML23-2/.github/assets/96706954/ad9a1759-429e-4d43-84b3-faf977f6e2c9)" width="200" height="400"/>
-![logo_ąššŽ](https://github.com/Running-Machine-ML23-2/.github/assets/96706954/ad9a1759-429e-4d43-84b3-faf977f6e2c9)
+<img src="https://github.com/Running-Machine-ML23-2/.github/assets/96706954/ad9a1759-429e-4d43-84b3-faf977f6e2c9" width="400" height="100"/>
+
 * **We are Running Machine**
 
 * **Sung Ajeong** - *The * - [YourGithubUsername](https://github.com/YourGithubUsername)
