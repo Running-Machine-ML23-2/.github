@@ -6,28 +6,27 @@ Under the guidance of Professor Se-eun Oh, we carried out this project during th
 
 ## 1️⃣  **Closed-world Scenario**
 
+### Problem ➊ **Multi-Class Classification with Monitored Data**
+
 In this scenario, it is assumed that the user only visits websites that are marked as "monitored". 
 
 The objective of this scenario is to correctly classify 95 monitored websites.
-### Problem ➊ **Multi-Class Classification with Monitored Data**
 
 ## 2️⃣  **Open-world Scenario**
 
 In this scenario, it is assumed that the user can visit any website, including "unmonitored" ones that we are not interested in. In this case, we perform two types of classification: binary classification and multi-class classification.
 
-### ➊  **Binary Classification**:
+### Problem ➋  **Binary Classification**:
 
-The goal of this scenario is to determine whether a given web traffic trace corresponds to a monitored website. To train the model, we assign a label of '-1' to all instances of unmonitored websites.
+The goal of this scenario is to determine whether a given web traffic trace corresponds to a monitored website. 
 
-### ➋  **Multi-Class Classification**:
+To train the model, we assign a label of '-1' to all instances of unmonitored websites.
+
+### Problem ➌  **Multi-Class Classification including Unmonitored Data**:
 
 This involves classification among web traffic traces tagged with 95 unique labels corresponding to monitored websites, plus additional unmonitored websites.
 
 This project seeks to explore and illustrate these different scenarios and classification types within the context of web traffic analysis.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
 
 ## Built With
 * <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> - The programming language used
