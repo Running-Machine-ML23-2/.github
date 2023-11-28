@@ -51,7 +51,7 @@ The below bar graph shows the comparison of our final model and other models ([C
 
 Several method to achieve the above include the following methods.
 
-## **Continuous Feature**
+* **Continuous Feature**
 
 Continuous features are provided with timestamps and packet size information in an array. 
 
@@ -65,7 +65,7 @@ In addition, the effect of improving performance and reducing learning time coul
 
 Also, data with different lengths were padded to a certain value (0) to build data that is easy to learn.
 
-## **Categorical Feature**
+* **Categorical Feature**
 
 Categorical features are features that we can obtain by fetching data. We were able to extract a total of five types of features.
 
@@ -73,7 +73,7 @@ First of all, we completed features to obtain the number of incoming and outgoin
 
 As experimentally proven features of the above, it is generally known to be effective in network fingerprinting.
 
-# How to run
+# 🏃‍♀️ How to run
 
 It is possible to preprocess and import data using the provided ipynb code. 
 
@@ -81,6 +81,7 @@ Data was provided for the project, and individual contact and consultation from 
 
 
 # 🏃‍♀️ Built With
+
 * <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> - The programming language used
 * <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white"> - The environment used
 
