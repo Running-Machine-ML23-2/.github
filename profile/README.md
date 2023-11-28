@@ -80,6 +80,29 @@ As experimentally proven features of the above, it is generally known to be effe
 It is possible to preprocess and import data using the provided ipynb code. 
 
 Data was provided for the project, and individual contact and consultation from institutions, schools, etc. is required if data access rights are desired.
+* Problem 1
+```
+├── Adaboost.ipynb
+├── Final_Random_Forest.ipynb
+├── KNN.ipynb
+├── Matrix.ipynb
+└── SVM.ipynb
+```
+* Problem 2
+```
+├── Adaboost.ipynb
+├── Binary_Matrix.ipynb
+└── SVM.ipynb
+```
+* Problem 3
+```
+├── Adaboost.ipynb
+├── Final_Radom_Forest.ipynb
+├── KNN.ipynb
+├── Matrix.ipynb
+└── SVM.ipynb
+```
+* Extra Credit
 
 
 # 🏃‍♀️ Built With
