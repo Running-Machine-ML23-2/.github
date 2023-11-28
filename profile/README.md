@@ -32,7 +32,7 @@ This involves classification among web traffic traces tagged with 95 unique labe
 
 This project seeks to explore and illustrate these different scenarios and classification types within the context of web traffic analysis.
 
-## **Feature Extraction**
+# 🏃‍♀️ **Feature Extraction**
 
 Several method to achieve the above include the following methods.
 
@@ -58,12 +58,12 @@ First of all, we completed features to obtain the number of incoming and outgoin
 
 As experimentally proven features of the above, it is generally known to be effective in network fingerprinting.
 
-## Built With
+# 🏃‍♀️ Built With
 * <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> - The programming language used
 * <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white"> - The environment used
 
   
-## Authors
+# 🏃‍♀️ Authors
 * **We are Running Machine**
 
 * **A Jeong Sung** - *The * - [YourGithubUsername](https://github.com/YourGithubUsername)
