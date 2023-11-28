@@ -2,23 +2,23 @@
 
 This project is a machine learning project that achieves predictive accuracy for website access through Internet website access fingerprinting.
 
-Under the guidance of Professor Oh Se-eun, we carried out this project during the fall semester of the 23rd school year.
+Under the guidance of Professor Se-eun Oh, we carried out this project during the fall semester of the 23rd school year.
 
-## 1️⃣ **Closed-world Scenario**
+## 1️⃣  **Closed-world Scenario**
 
 In this scenario, it is assumed that the user only visits websites that are marked as "monitored". 
 
 The objective of this scenario is to correctly classify 95 monitored websites.
 
-## 2️⃣ **Open-world Scenario**
+## 2️⃣  **Open-world Scenario**
 
 In this scenario, it is assumed that the user can visit any website, including "unmonitored" ones that we are not interested in. In this case, we perform two types of classification: binary classification and multi-class classification.
 
-### **Binary Classification**:
+### ➊  **Binary Classification**:
 
 The goal of this scenario is to determine whether a given web traffic trace corresponds to a monitored website. To train the model, we assign a label of '-1' to all instances of unmonitored websites.
 
-### **Multi-Class Classification**:
+### ➋  **Multi-Class Classification**:
 
 This involves classification among web traffic traces tagged with 95 unique labels corresponding to monitored websites, plus additional unmonitored websites.
 
