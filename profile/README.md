@@ -9,6 +9,7 @@ Under the guidance of Professor Se-eun Oh, we carried out this project during th
 In this scenario, it is assumed that the user only visits websites that are marked as "monitored". 
 
 The objective of this scenario is to correctly classify 95 monitored websites.
+### Problem ➊ **Multi-Class Classification with Monitored Data**
 
 ## 2️⃣  **Open-world Scenario**
 
