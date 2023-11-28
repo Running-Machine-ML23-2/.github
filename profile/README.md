@@ -1,4 +1,4 @@
-# Project Title
+# Attack on Tor: Website Fingerprinting
 
 One Paragraph of project description goes here
 
@@ -11,13 +11,12 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ## Built With
-* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> (https://www.python.org/) - The programming language used
-* <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white"> (https://www.python.org/) - The environment used
-## Contributing
+* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> - The programming language used
+* <img src="https://img.shields.io/badge/googlecolab-F9AB00?style=for-the-badge&logo=GoogleColab&logoColor=white"> - The environment used
 
-Please read [CONTRIBUTING.md](http://contributing.md/) for details on our code of conduct, and the process for submitting pull requests to us.
-
+  
 ## Authors
+* **We are Running Machine**
 
 * **A Jeong Sung** - *Initial work* - [YourGithubUsername](https://github.com/YourGithubUsername)
 * **1970094 Hong Saeyeon**  - [GitHub](https://github.com/YourGithubUsername)
@@ -29,7 +28,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License 
 
 ## Acknowledgments
 
